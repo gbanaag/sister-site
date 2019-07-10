@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 400%;
+  text-align:center;
+  color: #143A59;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  text-align:center;
+  font-size: 150%;
+  /* color:#7895A5; */
+  color: #5E768A;
+}
+
+html {
+  background-color: #EDF7FF;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+}
+
+.correct-ratio {
+  object-fit: cover;
+}
+
+.hearts {
+  height: 734;
+  width: 1024;
+}
